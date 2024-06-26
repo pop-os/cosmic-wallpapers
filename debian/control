@@ -1,0 +1,13 @@
+Source: cosmic-wallpapers
+Section: x11
+Priority: optional
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Build-Depends: debhelper (>= 10), imagemagick
+Standards-Version: 3.9.8
+Homepage: https://github.com/pop-os/cosmic-wallpapers
+Vcs-Git: https://github.com/pop-os/cosmic-wallpapers.git
+
+Package: cosmic-wallpapers
+Architecture: all
+Description: COSMIC Wallpapers
+ A collection of wallpapers for the COSMIC Desktop Environment
