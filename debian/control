@@ -9,5 +9,6 @@ Vcs-Git: https://github.com/pop-os/cosmic-wallpapers.git
 
 Package: cosmic-wallpapers
 Architecture: all
+Provides: ubuntu-wallpapers
 Description: COSMIC Wallpapers
  A collection of wallpapers for the COSMIC Desktop Environment
