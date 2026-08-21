@@ -23,4 +23,16 @@ Wallpapers for the COSMIC Desktop Environment
     - License: https://webbtelescope.org/copyright
 - [webb-inspired-wallpaper-system76.jpg](original/webb-inspired-wallpaper-system76.jpg)
     - Source: System76
-    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)  
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [COSMIC-logo-Dark.png](original/COSMIC-logo-Dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [COSMIC-logo-White.png](original/COSMIC-logo-White.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [COSMIC-Pattern-Dark.png](original/COSMIC-Pattern-Dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [COSMIC-Pattern-Light.png](original/COSMIC-Pattern-Light.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
