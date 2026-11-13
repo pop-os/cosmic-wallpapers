@@ -36,3 +36,48 @@ Wallpapers for the COSMIC Desktop Environment
 - [COSMIC-Pattern-Light.png](original/COSMIC-Pattern-Light.png)
     - Source: System76
     - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Seth Universe Blue Dark](original/seth-universe-blue-dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Seth Universe Blue Light](original/seth-universe-blue-light.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Seth Universe Green Dark](original/seth-universe-green-dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Seth Universe Green Light](original/seth-universe-green-light.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Seth Universe Orange Dark](original/seth-universe-orange-dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Seth Universe Orange Light](original/seth-universe-orange-light.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Seth Universe Red Dark](original/seth-universe-red-dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Seth Universe Red Light](original/seth-universe-red-light.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [System76 COSMIC Dark](original/system76-cosmic-dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [System76 COSMIC Light](original/system76-cosmic-light.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [System76 Dunes](original/system76-dunes.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [System76 Mirror Grove Dark](original/system76-mirror-grove-dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [System76 Mirror Grove Light](original/system76-mirror-grove-light.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [System76 Still Peaks Dark](original/system76-still-peaks-dark.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [System76 Still Peaks Light](original/system76-still-peaks-light.png)
+    - Source: System76
+    - License: [CC BY 4.0 INT](https://creativecommons.org/licenses/by/4.0/deed.en)
